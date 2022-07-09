@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
+  "name": "Arbawy",
+  "description": " Arabawy Powerful & Safe based on Telethon",
   "logo": "",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sbb-b/zuhairy",
+  "repository": "https://github.com/alielsayed76/zuhairy",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -55,7 +55,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
